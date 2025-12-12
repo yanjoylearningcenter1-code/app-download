@@ -1,0 +1,8 @@
+{
+  "name": "Smart Speed Reading",
+  "description": "A speed reading game where users can play with default words or upload their own via text or photo OCR using Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
